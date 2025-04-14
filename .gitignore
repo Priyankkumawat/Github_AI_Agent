@@ -1,0 +1,5 @@
+# Ignore the following folders
+Include/
+Lib/
+Scripts/
+share/
